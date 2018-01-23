@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danchetto/projects/algorithms/module2/4_2/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+algorithm
+-
+

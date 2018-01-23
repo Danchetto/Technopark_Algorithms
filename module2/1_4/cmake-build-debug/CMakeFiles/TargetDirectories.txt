@@ -1,0 +1,3 @@
+/home/danchetto/projects/algorithms/module2/1_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danchetto/projects/algorithms/module2/1_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danchetto/projects/algorithms/module2/1_4/cmake-build-debug/CMakeFiles/1_4.dir

@@ -1,0 +1,4 @@
+/home/danchetto/Soft/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/danchetto/projects/algorithms/counter
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/danchetto/projects/algorithms/counter/cmake-build-debug

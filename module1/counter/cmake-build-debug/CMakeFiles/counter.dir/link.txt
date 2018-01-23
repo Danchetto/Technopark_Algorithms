@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/counter.dir/main.cpp.o  -o counter 

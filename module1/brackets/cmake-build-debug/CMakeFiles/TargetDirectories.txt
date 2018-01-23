@@ -1,0 +1,3 @@
+/home/danchetto/projects/algorithms/module1/brackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danchetto/projects/algorithms/module1/brackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danchetto/projects/algorithms/module1/brackets/cmake-build-debug/CMakeFiles/brackets.dir

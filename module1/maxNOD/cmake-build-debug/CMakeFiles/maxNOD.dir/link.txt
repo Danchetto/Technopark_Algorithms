@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/maxNOD.dir/main.cpp.o  -o maxNOD 
